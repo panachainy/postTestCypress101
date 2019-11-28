@@ -1,0 +1,11 @@
+{
+  "name": "postTestCypress101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/panachai/postTestCypress101.git",
+  "author": "Panachainy <panachai.ny@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^3.7.0"
+  }
+}
